@@ -4,7 +4,7 @@
 This Excel project presents an executive summary of company sales performance, revenue trends, and key business metrics to support clear and data-driven decision-making.
 
 ## Dashboard Preview
-![Sales Dashboard](Excel%20Project%20Sells%20Executive%20Summary%20Photo.png)
+![Sales Dashboard](Excel%20Project%20Sells%20Executive%20Summary%20Photo%20.png)
 
 ## Key Highlights & Tools Used
 * **Data Cleaning & Organization:** Structured raw sales data for accurate analysis.
